@@ -2,11 +2,10 @@ services:
   asm32:
     platform: linux/386          # here, not inside build
     build:
-      context: ..
-      dockerfile: Dockerfile.i386
+      context: .
+      dockerfile: Dockerfile
     working_dir: /src
     volumes:
-      - .:/src
+      - ..:/src
     stdin_open: true
     tty: true
-

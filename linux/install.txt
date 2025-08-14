@@ -1,0 +1,13 @@
+apt install vim-common
+
+nasm -v
+2.16.01
+
+ld --version | head -n1
+2.40
+
+objdump --version | head -n1
+2.40
+
+xxd --version
+2022-01-14
