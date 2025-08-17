@@ -2,10 +2,7 @@
 
 https://cs.lmu.edu/~ray/notes/nasmtutorial/
 
-
-### online NASM Assembly IDE
-
-https://www.jdoodle.com/compile-assembler-nasm-online
+https://www.cs.yale.edu/flint/cs421/papers/x86-asm/asm.html
 
 ### instruction reference
 
@@ -48,3 +45,5 @@ https://app.x64.halb.it
 https://godbolt.org
 
 https://kobzol.github.io/davis/
+
+https://www.jdoodle.com/compile-assembler-nasm-online
