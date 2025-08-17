@@ -28,6 +28,8 @@ https://home.cs.colorado.edu/~main/cs1300-old/nasmdoc/html/nasmdocb.html
 
 ### YT Videos
 
+https://www.youtube.com/playlist?list=PLPedo-T7QiNsIji329HyTzbKBuCAHwNFC
+
 https://www.youtube.com/results?search_query=assembly+language
 
 https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=1
@@ -37,7 +39,12 @@ https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSX
 
 https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf
 
-
-
 https://github.com/code-tutorials/assembly-intro
 
+### Online assembler + debugger + playground
+
+https://app.x64.halb.it
+
+https://godbolt.org
+
+https://kobzol.github.io/davis/

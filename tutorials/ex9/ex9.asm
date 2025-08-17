@@ -4,6 +4,7 @@ _start:
     push 21
     call times2
     mov ebx, eax
+    ;pop ebx technically we need to remove that 21 pushed to stack
     mov eax, 1
     int 0x80
 
