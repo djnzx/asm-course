@@ -47,3 +47,7 @@ https://godbolt.org
 https://kobzol.github.io/davis/
 
 https://www.jdoodle.com/compile-assembler-nasm-online
+
+### Great manual with visualisation
+
+http://www.c-jump.com/CIS77/ASM/Assembly/A77_0420_rotate_with_carry.htm
