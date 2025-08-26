@@ -32,13 +32,18 @@
 
 ## 6. FLAGS, jumps - 27.08.2025
 
+- flags
 - unconditional jump
 - changing flags
 - testing values
 - conditional jumps
-- loop
 
-## 7. memory allocation
+## 7. loops, arrays
+
+- loop
+- array
+
+## 8. memory allocation
 - type
   - initialized
   - non-initialized
@@ -50,7 +55,7 @@
 - arrays
 - arrays 2d
 
-## 8. stack
+## 9. stack
 - push, 
 - pop, 
 - SP, 
@@ -65,18 +70,18 @@
 - stack size, 
 - parameters passing
 
-## 9. in / out arduino examples
+## 10. in / out arduino examples
 - in
 - out
 - digital
 - analog
 
-## 10 . the full operation stack:
+## 11. the full operation stack:
 User space -> Kernel space -> Firmware & platform -> Hardware
 App -> Library -> VM -> Operation System -> Driver -> Firmware
 https://chatgpt.com/share/68a1abe4-c174-800b-ac84-45181e68a1ac
 
-## 11. interruptions 
+## 12. interruptions 
 - interruption concept
 - software interruption
 - OS interop
@@ -86,7 +91,7 @@ https://chatgpt.com/share/68a1abe4-c174-800b-ac84-45181e68a1ac
   - on data came via port, 
   - port I/O
 
-## 12. advanced things 
+## 13. advanced things 
 - multitasking fundamentals,
 - time slices, 
 - problems 
@@ -94,3 +99,5 @@ https://chatgpt.com/share/68a1abe4-c174-800b-ac84-45181e68a1ac
 - macros, 
 - pseudooperators
 - double i8087 / 287 / 387 / embedded into 486 dx 
+
+https://www.utf8icons.com/subsets/arrows
