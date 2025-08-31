@@ -38,22 +38,25 @@
 - testing values
 - conditional jumps
 
-## 7. loops, arrays
+## 7. memory allocation
+- type
+    - initialized
+    - non-initialized
+- alignment
+    - db,
+    - dw,
+    - dd,
+    - dq
+    - ascii
+    - asciz
+    - equ
 
+## 8. loops, arrays
+
+- cmp, jz, jnz
 - loop
 - array
-
-## 8. memory allocation
-- type
-  - initialized
-  - non-initialized
-- alignment
-  - db, 
-  - dw, 
-  - dd, 
-  - dq
-- arrays
-- arrays 2d
+- 2D array
 
 ## 9. stack
 - push, 
