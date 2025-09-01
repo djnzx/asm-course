@@ -3,6 +3,7 @@
 ## 2. code structure, registers - 14.08.2025
 
 ## 3. i386 history, etc - 19.08.2025
+
 - fon-neiman
 - registers, 
 - IP, 
@@ -39,6 +40,7 @@
 - conditional jumps
 
 ## 7. memory allocation
+
 - type
     - initialized
     - non-initialized
@@ -59,9 +61,14 @@
 - 2D array
 
 ## 9. stack
-- push, 
-- pop, 
-- SP, 
+
+- push 
+- pop 
+- SP
+- usecases
+
+## 10. subroutines
+
 - function call,
 - call
 - return
@@ -73,18 +80,24 @@
 - stack size, 
 - parameters passing
 
-## 10. in / out arduino examples
+## 11. in / out arduino examples
+
 - in
 - out
 - digital
 - analog
+- mapping
+- interfaces
+- protocols
 
-## 11. the full operation stack:
+## 12. the full operation stack
+
 User space -> Kernel space -> Firmware & platform -> Hardware
 App -> Library -> VM -> Operation System -> Driver -> Firmware
 https://chatgpt.com/share/68a1abe4-c174-800b-ac84-45181e68a1ac
 
-## 12. interruptions 
+## 13. interruptions 
+
 - interruption concept
 - software interruption
 - OS interop
@@ -94,7 +107,8 @@ https://chatgpt.com/share/68a1abe4-c174-800b-ac84-45181e68a1ac
   - on data came via port, 
   - port I/O
 
-## 13. advanced things 
+## 14. advanced things 
+
 - multitasking fundamentals,
 - time slices, 
 - problems 

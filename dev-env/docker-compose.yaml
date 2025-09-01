@@ -1,6 +1,8 @@
+name: dev-env-assembly
+
 services:
   asm32:
-    platform: linux/386          # here, not inside build
+    platform: linux/386
     build:
       context: .
       dockerfile: Dockerfile
@@ -9,3 +11,4 @@ services:
       - ..:/src
     stdin_open: true
     tty: true
+    container_name: dev-env-asm32-1
