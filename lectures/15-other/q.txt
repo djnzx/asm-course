@@ -1,0 +1,8 @@
+
+
+SDRAM
+DDR4
+DDR5
+L1
+L2
+L3
