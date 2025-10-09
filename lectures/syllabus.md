@@ -1,8 +1,8 @@
-## 1. intro - 12.08.2025
+## 1. intro
 
-## 2. code structure, registers - 14.08.2025
+## 2. code structure, registers
 
-## 3. i386 history, etc - 19.08.2025
+## 3. i386 history, etc
 
 - fon-neiman
 - registers, 
@@ -12,9 +12,9 @@
 - lea, 
 - memory operations
 
-## 4. math operations - 21.08.2025
+## 4. math operations
 
-## 5. bit operations - 26.08.2025
+## 5. bit operations
 
 - binary system
 - Explain the role of Boolean logic in binary computation
@@ -31,7 +31,7 @@
   - mem, mem - NOT ALLOWED
 - not: reg only, mem only
 
-## 6. FLAGS, jumps - 27.08.2025
+## 6. FLAGS, jumps
 
 - flags
 - unconditional jump
@@ -118,3 +118,7 @@ https://chatgpt.com/share/68a1abe4-c174-800b-ac84-45181e68a1ac
 - double i8087 / 287 / 387 / embedded into 486 dx 
 
 https://www.utf8icons.com/subsets/arrows
+
+PROMPT:
+проаналізувати лекції 1-15                                                                                                                                                                                                                                          
+та оновити syllabus.md відповідно фактичного вмісту 
